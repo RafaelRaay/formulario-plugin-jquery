@@ -1,0 +1,52 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header h1
+{
+    margin: 16px;
+    margin-top: 100px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+.campo-form
+{
+    margin: 16px;
+}
+
+.campo-form label
+{
+    font-weight: bold;
+    display: block;
+}
+
+.campo-form input,
+.campo-form button
+{
+    width: 100%;
+    display: block;
+    padding: 8px;
+}
+
+button
+{
+    background-color: rgb(17, 172, 17);
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+form
+{
+    max-width: 425px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
